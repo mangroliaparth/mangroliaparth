@@ -16,13 +16,13 @@ Contact Me
 Feel free to reach out to me via email or connect with me on LinkedIn for collaborations and discussions!
 
 Email: mangroliaparth@gmail.com
-Linkdin: https://www.linkedin.com/in/parth-mangrolia-pm/
+Linkedin: https://www.linkedin.com/in/parth-mangrolia-pm/
 
 MY Expertise and Technical Skills Set
-• Language : C#, HTML, CSS, JavaScript, jQuery, AJAX, XML
-• Technologies : ASP.NET, ADO.NET, ASP.NET CORE, MVC, WEB API, LINQ, EntityFramework, Dapper, Azure.
+• Language: C#, HTML, CSS, JavaScript, jQuery, AJAX, XML
+• Technologies: ASP.NET, ADO.NET, ASP.NET CORE, MVC, WEB API, LINQ, EntityFramework, Dapper, Azure.
 • IDE & Tools: Microsoft Visual Studio 2017, 2019, 2022
-• DBMS : MS SQL Server 2017, 2019, 2022
+• DBMS: MS SQL Server 2017, 2019, 2022
 • Source Control: GitHub, SVN, Azure DevOps Server, GitHub Desktop
 • Project Management Tools: TFS, Trello, Jira
-• Operating System : Windows versions
+• Operating System: Windows versions
