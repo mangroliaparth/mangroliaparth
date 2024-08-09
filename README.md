@@ -17,9 +17,9 @@ Contact Me
 If you are looking for a seasoned expert to help with your next Microsoft .NET project, feel free to reach out to me via email or connect with me on LinkedIn. I am open to collaborations and discussions!
 
 Email: mangroliaparth@gmail.com
-LinkedIn: Parth Mangrolia
-Expertise and Technical Skill Set
+LinkedIn: [Parth Mangrolia](https://www.linkedin.com/in/parth-mangrolia-pm/)
 
+Expertise and Technical Skill Set
 Languages: C#, HTML, CSS, JavaScript, jQuery, AJAX, XML
 Technologies: ASP.NET, ADO.NET, ASP.NET Core, MVC, Web API, LINQ, Entity Framework, Dapper, Azure
 IDE & Tools: Microsoft Visual Studio 2017, 2019, 2022
