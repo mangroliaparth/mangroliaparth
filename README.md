@@ -1,28 +1,29 @@
 About Me
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 
-I am a seasoned Senior Software Engineer with 7 years of expertise in Microsoft technologies, specializing in crafting robust and scalable software solutions. My journey in the tech industry has been marked by a deep commitment to leveraging the Microsoft technology stack to deliver high-performance applications and systems.
+I am a highly skilled Senior Software Engineer with 5 years of experience specializing in Microsoft technologies. My expertise lies in creating robust and scalable software solutions using the Microsoft technology stack, including .NET, C#, ASP.NET, Azure, and SQL Server.
 
-Throughout my career, I have honed my skills in various Microsoft tools and platforms, including .NET, C#, ASP.NET, Azure, and SQL Server. My experience spans from developing intricate backend systems and APIs to designing intuitive user interfaces that drive seamless user experiences. I have a proven track record of managing complex projects, collaborating with cross-functional teams, and leading technical initiatives that align with business goals.
+My career has been defined by a commitment to delivering high-performance applications and systems. I excel in developing sophisticated backend systems, designing intuitive user interfaces, and building APIs that enhance user experiences. With a proven track record of managing complex projects and collaborating effectively with cross-functional teams, I drive technical initiatives that align with business objectives and deliver tangible results.
 
-My approach to software engineering is rooted in a strong foundation of best practices and continuous improvement. I am adept at employing Agile methodologies to ensure iterative progress and adaptive problem-solving. My passion for staying current with emerging technologies and industry trends drives me to refine my skills and embrace innovative solutions continually.
+I approach software engineering with a focus on best practices and continuous improvement. I am adept at using Agile methodologies to ensure iterative development and responsive problem-solving. My passion for staying up-to-date with emerging technologies and industry trends drives me to continually enhance my skills and embrace innovative solutions.
 
-In addition to my technical understanding, I bring a collaborative spirit and a focus on mentorship to my teams. I take pride in fostering a positive work environment where knowledge sharing and mutual growth are prioritized. My ability to communicate complex technical concepts clearly and effectively has been instrumental in bridging gaps between technical and non-technical stakeholders.
+In addition to my technical prowess, I bring a collaborative spirit and a dedication to mentorship. I am committed to fostering a positive work environment where knowledge-sharing and team growth are encouraged. My ability to communicate complex technical concepts bridges the gap between technical and non-technical stakeholders, facilitating effective collaboration and project success.
 
-As I look to the future, I am excited to tackle new challenges and contribute to projects that push the boundaries of what technology can achieve. My goal is to leverage my experience and skills to drive impactful solutions and continue evolving in the ever-changing landscape of software development.
+Looking forward, I am eager to tackle new challenges and contribute to projects that push the boundaries of technology. My goal is to leverage my experience and skills to drive impactful solutions and continue evolving in the dynamic landscape of software development.
 
 Contact Me
-Feel free to reach out to me via email or connect with me on LinkedIn for collaborations and discussions!
+
+If you are looking for a seasoned expert to help with your next Microsoft .NET project, feel free to reach out to me via email or connect with me on LinkedIn. I am open to collaborations and discussions!
 
 Email: mangroliaparth@gmail.com
-Linkedin: https://www.linkedin.com/in/parth-mangrolia-pm/
+LinkedIn: Parth Mangrolia
+Expertise and Technical Skill Set
 
-MY Expertise and Technical Skills Set
-• Language: C#, HTML, CSS, JavaScript, jQuery, AJAX, XML
-• Technologies: ASP.NET, ADO.NET, ASP.NET CORE, MVC, WEB API, LINQ, EntityFramework, Dapper, Azure.
-• IDE & Tools: Microsoft Visual Studio 2017, 2019, 2022
-• DBMS: MS SQL Server 2017, 2019, 2022
-• Source Control: GitHub, SVN, Azure DevOps Server, GitHub Desktop
-• Project Management Tools: TFS, Trello, Jira
-• Operating System: Windows versions
+Languages: C#, HTML, CSS, JavaScript, jQuery, AJAX, XML
+Technologies: ASP.NET, ADO.NET, ASP.NET Core, MVC, Web API, LINQ, Entity Framework, Dapper, Azure
+IDE & Tools: Microsoft Visual Studio 2017, 2019, 2022
+DBMS: MS SQL Server 2017, 2019, 2022
+Source Control: GitHub, SVN, Azure DevOps Server, GitHub Desktop
+Project Management Tools: TFS, Trello, Jira
+Operating Systems: Windows
