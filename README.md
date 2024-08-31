@@ -36,6 +36,6 @@ If you are looking for a seasoned expert to help with your next Microsoft .NET p
 
 **Operating Systems:** Windows
 
-**Third-party API Integration:** Twilio, Stripe, SendGrid, Yelp, Hikvision.
+**Integration of Third-party API:** Twilio, Stripe, SendGrid, Yelp, Hikvision.
 
 Thanks in advance for your interest and I look forward to connecting!
