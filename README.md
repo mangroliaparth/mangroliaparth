@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a highly skilled Senior Software Engineer with 5 years of experience specializing in Microsoft technologies. My expertise is creating robust and scalable software solutions using the Microsoft technology stack, including .NET Core, .NET, C#, ASP.NET, Azure, and SQL Server.
+I am a highly skilled Senior Software Engineer with 8+ years of experience specializing in Microsoft technologies. My expertise lies in creating robust, scalable, and high-performance software solutions using the Microsoft technology stack, including .NET Core, .NET, C#, ASP.NET, Azure, and SQL Server. I also have experience developing modern frontend applications using ReactJS and Angular. Additionally, I leverage AI-powered development tools such as GitHub Copilot, Amazon Q, Cursor, and ChatGPT to enhance productivity and accelerate software development.
 
 My career has been defined by a commitment to delivering high-performance applications and systems. I excel in developing sophisticated backend systems, designing intuitive user interfaces, and building APIs that enhance user experiences. With a proven track record of managing complex projects and collaborating effectively with cross-functional teams, I drive technical initiatives that align with business objectives and deliver tangible results.
 
@@ -32,10 +32,10 @@ If you are looking for a seasoned expert to help with your next Microsoft .NET p
 
 **Source Control:** GitHub, SVN, Azure DevOps Server, GitHub Desktop
 
-**Project Management Tools:** TFS, Trello, Jira
+**Project Management Tools:** TFS, Trello, Jira, Readmine
 
 **Operating Systems:** Windows
 
-**Integration of Third-party API:** Twilio, Stripe, SendGrid, Yelp, Hikvision.
+**Integration of Third-party API:** Twilio, Stripe, SendGrid, Yelp, Hikvision Heartland, and Cardnox.
 
-Thanks in advance for your interest and I look forward to connecting!
+Thanks in advance for your interest, and I look forward to connecting!
